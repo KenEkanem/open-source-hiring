@@ -28,4 +28,4 @@ Have you come across any job posting at an open source company? Feel free to add
 | Frontend Developer  | OpenZeppelin      | React, Solidity   |  December 1, 2022   | [Apply](https://www.openzeppelin.com/jobs/opening?gh_jid=5283107003)|
 |        -            | Red Hat           |      -            | currently open      | [Apply](https://www.redhat.com/en/jobs)                          |
 | Sr. PostgreSQL Engineer| Amazon Web Services   | RDS / PostgreSQL | December 3, 2022 | [Apply(LinkedIn)](https://www.linkedin.com/jobs/view/senior-postgresql-engineer-rds-open-source-at-amazon-web-services-aws-3109794084) [Apply(Adzuna)](https://www.adzuna.com/details/3455461128) |
-
+| Backend Software Engineer - Grafana Ops | Grafana Labs | Go, C, C#, C++, Java or Rust |Open | [Apply](https://boards.greenhouse.io/grafanalabs/jobs/4614341004)|
